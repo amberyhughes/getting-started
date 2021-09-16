@@ -371,7 +371,7 @@ Chameleons project their tongues up to 2 times their body length in order to cap
 
 ##### Summary of Kinematic Peformance from Anderson
 
-The kinematic performance of the chameleon tongue mechanism varies between species, with smaller species demonstrating the shortest durations, and highest accelerations and power outputs. The max. velocity acheived is proportional between species. Data was scaled by SVL, or snout-vent length of the species. 
+The kinematic performance of the chameleon tongue mechanism varies between species, with smaller species demonstrating the shortest durations, and highest accelerations and power outputs. They found that smaller species have a proportionately larger feeding apparatus as a result. The max. velocity acheived is proportional between species. Data was scaled by SVL, or snout-vent length of the species. Anderson speculates this could be the case as it is important for younger, smaller cameleons to obtain larger, more nutrient rich prey. Another speculation is that having a larger feeding apparatus results in less acceleration, which can prevent deformation.
 
 | Kinematic Metric | Chameleon Tongue Performance |
 | -------- | ------- |
